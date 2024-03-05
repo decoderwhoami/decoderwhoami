@@ -1,6 +1,6 @@
-# Sabyasachi Seal
+# Decoder Whoami
 
-Hey there! 👋 I'm Sabyasachi Seal, a software engineer passionate about building cool stuff with code. Welcome to my GitHub profile!
+Hey there! 👋 I'm Decoder, a software engineer passionate about building cool stuff with code. Welcome to my GitHub profile!
 
 ## About Me
 
