@@ -153,8 +153,8 @@
 <h2></h2>
 <div align=center>
    <a href="https://github.com/Sabyasachi-Seal">
-   <img width=49% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/main/achievements.svg" />
-   <img width=49% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/main/skyline.svg" />
+   <img width=40% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/main/achievements.svg" />
+   <img width=59% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/main/account_summary.svg" />
    </a>
 </div>
 <div align=center>
@@ -184,6 +184,51 @@
    <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%232CF7E4&center=true&vCenter=true&width=450%&lines=(%2B91)+891-042-7807" />
    </a>
 </div>
+<div align=center>
+   <a href="https://github.com/Sabyasachi-Seal">
+   <img height=50 width=100% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif">
+   </a>
+</div>
+<div align=center>
+   <a href="https://www.youtube.com/channel/UC5VBAKQWkYdrALsQ_W8woCg">
+   <img width=100% height=100% align="center" alt="Youtube" src="https://readme-typing-svg.herokuapp.com?font=Sora&color=e3d20c&center=true&vCenter=true&width=450%&lines=Watch+some+of+my+videos+?" />
+   </a>
+   
+<!-- YOUTUBE:START -->
+[![How+to+use+Certificate+Generator+MLSA](https://ytcards.demolab.com/?id=OUAbqdLDTZQ&title=How+to+use+Certificate+Generator+MLSA&background_color=%230d1117&title_color=%2339FF14&timestamp=&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "How+to+use+Certificate+Generator+MLSA")](https://www.youtube.com/watch?v=OUAbqdLDTZQ)
+[![Local+to+Global+101:+How+to+host+your+app+using+Azure+VMs,+NGINX+and+GitHub](https://ytcards.demolab.com/?id=uw5QqM8VByo&title=Local+to+Global+101:+How+to+host+your+app+using+Azure+VMs,+NGINX+and+GitHub&background_color=%230d1117&title_color=%2339FF14&timestamp=&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Local+to+Global+101:+How+to+host+your+app+using+Azure+VMs,+NGINX+and+GitHub")](https://www.youtube.com/watch?v=uw5QqM8VByo)
+[![Load+Balancing+with+Azure+Load+Balancer+and+Azure+Virtual+Machines](https://ytcards.demolab.com/?id=ClaPSzFWqAs&title=Load+Balancing+with+Azure+Load+Balancer+and+Azure+Virtual+Machines&background_color=%230d1117&title_color=%2339FF14&timestamp=&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Load+Balancing+with+Azure+Load+Balancer+and+Azure+Virtual+Machines")](https://www.youtube.com/watch?v=ClaPSzFWqAs)
+[![Azure+Fundamentals+and+Roadmap+to+AZ+900](https://ytcards.demolab.com/?id=8mgj0Qxw9ug&title=Azure+Fundamentals+and+Roadmap+to+AZ+900&background_color=%230d1117&title_color=%2339FF14&timestamp=&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Azure+Fundamentals+and+Roadmap+to+AZ+900")](https://www.youtube.com/watch?v=8mgj0Qxw9ug)<!-- YOUTUBE:END -->
+
+</div>
+<div align=center>
+   <a href="https://github.com/Sabyasachi-Seal">
+   <img height=50 width=100% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif">
+   </a>
+</div>
+<div align=center>
+   <a href="[https://www.youtube.com/channel/UC5VBAKQWkYdrALsQ_W8woCg](https://medium.com/@yoboy907)">
+   <img width=100% height=100% align="center" alt="Youtube" src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%3452eb&center=true&vCenter=true&width=450%&lines=Maybe+read+some+of+my+blogs+?" />
+   </a>
+   <div align=left>
+<table>
+   <tr>
+      <th>Title</th>
+      <th>Link</th>
+      <th>Categories</th>
+   </tr>
+<!-- BLOG-POST-LIST:START --><tr><td>CloudWatch Chronicles: Unleashing the Jedi Mind Tricks of Anomaly Detection💫</td><td><a href=https://medium.com/@yoboy907/unveiling-anomaly-detection-transforming-log-analysis-with-amazon-cloudwatch-491fe8c1113b?source=rss-440d4323ee2------2>Medium</a></td><td><code>machine-learning, technology, artificial-intelligence, cloud-computing, aws</code></td></tr>
+<tr><td>Deploy your Full Stack website with CI/CD in under 5 mins !!! &lpar;Totally Free&rpar;🚀</td><td><a href=https://medium.com/@yoboy907/deploy-your-full-stack-website-with-ci-cd-in-under-5-mins-totally-free-cf43063f719b?source=rss-440d4323ee2------2>Medium</a></td><td><code>free, cloud-computing, open-source, engineering, web-development</code></td></tr>
+<tr><td>How to integrate Postgres with ERPNext/Frappe &lpar; both Local and Remote &rpar;💯</td><td><a href=https://medium.com/@yoboy907/how-to-integrate-postgres-with-erpnext-frappe-both-local-and-remote-a17885c2472a?source=rss-440d4323ee2------2>Medium</a></td><td><code>cloud-computing, erpnext, python, aws, postgresql</code></td></tr>
+<tr><td>10 AI Tools to make your life 100x easier !🚀</td><td><a href=https://medium.com/@yoboy907/10-ai-tools-to-make-your-life-100x-easier-6ec4fbd3f05d?source=rss-440d4323ee2------2>Medium</a></td><td><code>social-media, money, programming, productivity, ai</code></td></tr>
+<tr><td>Make a AI Chatbot with AWS || Amazon Lex🚀</td><td><a href=https://medium.com/@yoboy907/make-a-ai-chatbot-with-aws-amazon-lex-74ad850171e1?source=rss-440d4323ee2------2>Medium</a></td><td><code>aws, amazon, chatbots, artificial-intelligence, website</code></td></tr>
+<!-- BLOG-POST-LIST:END -->
+
+</table>
+   </div>
+</div>
+
+
 <div align=center>
    <a href="https://github.com/Sabyasachi-Seal">
    <img height=50 width=100% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif">
